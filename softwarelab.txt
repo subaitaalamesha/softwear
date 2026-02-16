@@ -1,0 +1,5 @@
+Lab Task: 
+Create a GitHub repository named GitLabTask. It must contain:
+• README file
+• Upload the file (from your desktop’s folder) to the repository using git commands
+• At least one commit / One updated message
